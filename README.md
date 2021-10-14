@@ -4,7 +4,7 @@ Les exercices sont découpés en modules :
 - **Array** : manipulation de tableau à 1 ou 2 dimensions
 - **Cypher** : algo de chiffrement
 - **Finder** : algo de recherche
-- **Math** : problèmes de maths
+- **Maths** : problèmes de maths
 
 Chaque module contient une ou plusieurs méthodes correspondant aux différents exercices du module.
 
