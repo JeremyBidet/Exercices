@@ -4,12 +4,6 @@ import org.exercices.modules.Maths;
 
 public class Main {
 
-	// TODO:
-	// manipulation string
-	// compression RLE
-	// arbre binaire
-	// développement limité
-
 	/**
 	 * Les exercices sont découpés en modules :
 	 * <ul>
@@ -76,8 +70,10 @@ public class Main {
 	 * Bien lire la documentation (javadoc) des méthodes, elle peut être utile et donner des conseils.<br>
 	 */
 	public static void main(final String[] args) {
-		// Merci de lire la jdoc de cette méthode avant de commencer !
+		// Merci de lire la jdoc de cette méthode avant de commencer ! (ou le README au choix)
 		// (passer la souris sur le nom de la méthode suffit à l'afficher)
+		// 
+		// Tu peux effectuer tes tests de développement ici avant de soumettre tes fonctions aux tests unitaires.
 	}
 
 }
